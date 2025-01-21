@@ -1,0 +1,98 @@
+{
+    {
+      "name": "Galaxy A13 5G",
+      "device_code": "a13x",
+      "soc": "MT6833",
+      "variants": [
+        {
+          "model": "SM-A136U",
+          "build": "A136USQSBDXJ3",
+          "region": "USA only"
+        },
+        {
+          "model": "SM-A136U1",
+          "build": "A136U1UESBDXJ1",
+          "region": "USA only - carrier unlocked"
+        },
+        {
+          "model": "SM-A136M",
+          "build": "A136MUBUBDXL1",
+          "region": "Latin America"
+        },
+        {
+          "model": "SM-A136B",
+          "build": "A136BXXUADXL1",
+          "region": "International"
+        },
+        {
+          "model": "SM-A136W",
+          "build": "A136WVLSBDXJ3",
+          "region": "Canada only"
+        },
+        {
+          "model": "SM-M136B",
+          "build": "M136BXXSADXK1",
+          "region": "India only"
+        },
+        {
+          "name": "Galaxy Wide 6",
+          "model": "SM-A136S",
+          "build": "A136SKSS9EXK1",
+          "region": "South Korea only"
+        }
+      ]
+    },
+    {
+      "name": "Galaxy A14 5G",
+      "device_code": "a14xm",
+      "soc": "MT6833",
+      "variants": [
+        {
+          "model": "SM-A146P",
+          "build": "A146PXXSBDXK4",
+          "region": "Global (EU, Asia, Africa, Oceania)"
+        }
+      ]
+    },
+    {
+      "name": "Galaxy A22 5G",
+      "device_code": "a22x",
+      "soc": "MT6833",
+      "variants": [
+        {
+          "model": "SM-A226B",
+          "build": "A226BXXSADXH1",
+          "region": "Global (EU, Asia, Africa, Oceania)"
+        },
+        {
+          "model": "SM-A226BR",
+          "build": "A226BRUBSBDXH1",
+          "region": "Latin America"
+        },
+        {
+          "name": "Galaxy Buddy",
+          "model": "SM-A226L",
+          "build": "A226LKSS7DXH1",
+          "region": "South Korea only"
+        }
+      ]
+    },
+    {
+      "name": "Galaxy F42 5G",
+      "device_code": "f42x",
+      "soc": "MT6833",
+      "variants": [
+        {
+          "model": "SM-E426B",
+          "build": "E426BXXS7DXH1",
+          "region": "Asia (India, Nepal, Sri Lanka)"
+        },
+        {
+          "name": "Galaxy Wide 5",
+          "model": "SM-E426S",
+          "build": "E426SKSS7DXH1",
+          "region": "South Korea only"
+        }
+      ]
+    }
+}
