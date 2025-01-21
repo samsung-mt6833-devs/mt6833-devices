@@ -1,27 +1,12 @@
-##           Samsung           Dimensity 700   | MT6833 SoC Devices
-Model             /   Latest Build FP    /   Region - CSC                       /          Device         /
-#########################################################################################################
-/ Galaxy A13 5G /                                                              /     a13x      /
-############################################################################################################
-SM-A136U             A136USQSBDXJ3          USA only                                       
-SM-A136U1            A136U1UESBDXJ1         USA only
-SM-A136M             A136MUBUBDXL1          Latin America 
-SM-A136B             A136BXXUADXL1          Intl 
-SM-A136W             A136WVLSBDXJ3          Canada only
-SM-M136B             M136BXXSADXK1          India only 
+## Supported Devices for MT6833 Common Configuration
+The `supported_devices.json` will contain the list of ALL models which are supported under the Mediatek configuration 
 
-| Galaxy Wide 6 |
-SM-A136S             A136SKSS9EXK1          South Korea only                           
+There are a number of A14 5G variants which are of Exynos chipset, namely not supported - nor will be.
 
-
-#########################################################################################################
-| Galaxy A14 5G| *                                                          /      a14xm      /
-#########################################################################################################
-SM-A146P            A146PXXSBDXK4              Global (EU, Asia, Africa, Oceania) 
-
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-&&& Non-supported A14 Variants ### Exynos 1330  &&&
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+&&&      Non-supported Variants           ###           Exynos 1330       &&&
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+### Model        |    Build Fingerprint   |    Region / CSC
 ### SM-A146B           A146BXXU8CXK1          Asia (India, Nepal, Sri Lanka)
 ### SM-A146M           A146MUBU8CXL3          Latin America
 ### SM-A146U           A146USQSADXL1          US only
@@ -29,22 +14,7 @@ SM-A146P            A146PXXSBDXK4              Global (EU, Asia, Africa, Oceania
 ### SM-A146W         	 A146WVLS8DXI1          Canada Only
 ### SM-E146B        	 E146BXXU7CYA1          India only
 ### SM-M146B           M146BXXU8CYA1          Intl
-
-
-####################################################################################################
-|Galaxy A22 5G|                                                            /     a22x       /
-##################################################################################################
-SM-A226B             A226BXXSADXH1          Global (EU, Asia, Africa, Oceania) 
-SM-A226BR            A226BRUBSBDXH1         Latin America
-| Galaxy Buddy |
-SM-A226L             A226LKSS7DXH1          South Korea only  
-
-#######################################################################################################
-| Galaxy F42 5G |                                                            /       f42x       /
-#######################################################################################################
-SM-E426B             E426BXXS7DXH1          Asia (India, Nepal, Sri Lanka)
-| Galaxy Wide 5 |
-SM-E426S             E426SKSS7DXH1          South Korea only                        
+                     
 
                      
 
