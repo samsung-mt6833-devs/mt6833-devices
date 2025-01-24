@@ -1,0 +1,8 @@
+,,,,,,,,CoreA,,,CoreB,,,CoreC,,,CoreD,,
+SOCVendor,SOCModel,ProductName,ReleaseTime,GPUBrand,GPUModel,GPUCore,GPUFreq,Model,Count,Freq,Model,Count,Freq,Model,Count,Freq,Model,Count,Freq
+MediaTek,MT6833,Dimensity 810,2021.3Q,Mali,G57,2,950,,,,,,,A76,2,2.4,A55,6,2
+MediaTek,MT6833GP,,,Mali,G57,2,950,,,,,,,A76,2,2.4,A55,6,2
+MediaTek,MT6833V/NZA,Dimensity 700,2021.1Q,Mali,G57,2,950,,,,,,,A76,2,2.2,A55,6,2
+MediaTek,MT6833V/PNZA,Dimensity 810,2021.3Q,Mali,G57,2,950,,,,,,,A76,2,2.4,A55,6,2
+MediaTek,MT6833P,Dimensity 810,2021.3Q,Mali,G57,2,950,,,,,,,A76,2,2.4,A55,6,2
+MediaTek,MT6833V/ZA,Dimensity 700,2021.1Q,Mali,G57,2,950,,,,,,,A76,2,2.2,A55,6,2
