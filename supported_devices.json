@@ -6,20 +6,10 @@
       "variants": [
         {
           "model": "SM-A136U", "build": "A136USQSBDXJ3", "region": "USA only"
-        },
-        {
           "model": "SM-A136U1", "build": "A136U1UESBDXJ1", "region": "USA only - carrier unlocked"
-        },
-        {
           "model": "SM-A136M", "build": "A136MUBUBDXL1", "region": "Latin America"
-        },
-        {
           "model": "SM-A136B", "build": "A136BXXUADXL1", "region": "International"
-        },
-        {
           "model": "SM-A136W", "build": "A136WVLSBDXJ3", "region": "Canada only"
-        },
-        {
           "model": "SM-M136B", "build": "M136BXXSADXK1", "region": "India only"
         },
         {
@@ -45,8 +35,6 @@
       "variants": [
         {
           "model": "SM-A226B", "build": "A226BXXSADXH1", "region": "Global (EU, Asia, Africa, Oceania)"
-        },
-        {
           "model": "SM-A226BR", "build": "A226BRUBSBDXH1", "region": "Latin America"
         },
         {
