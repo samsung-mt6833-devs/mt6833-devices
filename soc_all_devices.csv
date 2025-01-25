@@ -1,0 +1,37 @@
+Brand,Device,Manufacturer,Model Name,RAM (TotalMem),Form Factor,System on Chip,GPU,Screen Sizes,Screen Densities,ABIs,Android SDK Versions,OpenGL ES Versions,Install base,User-perceived ANR rate,User-perceived crash rate
+Redmi,camellia,Redmi,Redmi Note 10T 5G,3781-5934MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+POCO,camellia,POCO,POCO M3 Pro 5G,3781-5934MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+POCO,camellia,POCO,POCO M3 Pro 5G,3781-5934MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+samsung,a23ex,Samsung,Galaxy A23 5G,3751MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+realme,RE54F3L1,realme,realme 9 5G,3790-5940MB,Phone,Mediatek MT6833P,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+Redmi,gold,Redmi,Redmi Note 13 5G,5829-12145MB,Phone,Mediatek MT6833P,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+OPPO,OP52F3L1,Oppo,A78 5G,3778-8005MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),720x1612,320,arm64-v8a;armeabi;armeabi-v7a,33;34,3.2,0,0.00%,0.00%
+Infinix,Infinix-X6711,Infinix,Infinix NOTE 30 5G,8020MB,Phone,Mediatek MT6833V/PNZA,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+samsung,a22x,Samsung,Galaxy A22 5G,3807-8056MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+TECNO,TECNO-CI7n,Tecno,CAMON 19 Pro 5G,8012MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+vivo,2126,Vivo,V2126,7995-8002MB,Phone,Mediatek MT6833V/MNZA,2x ARM Mali G57 (780 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,31;33,3.2,0,0.00%,0.00%
+realme,RE5081,realme,真我V13 5G,8012MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2,0,0.00%,0.00%
+motorola,austin,Motorola,moto g 5G (2022),3835-5946MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1600,280,arm64-v8a;armeabi;armeabi-v7a,31;33,3.2,0,0.00%,0.00%
+TECNO,TECNO-LH8n,Tecno,POVA 5 Pro 5G,8020MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+samsung,f42x,Samsung,Galaxy F42 5G,5915-8029MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+POCO,camellian,POCO,POCO M3 Pro 5G,3781-5934MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+vivo,2041,Vivo,V2053,3780-8002MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2408,440,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+OPPO,OP573DL1,Oppo,A79 5G,3778-8000MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+samsung,SC-56C,Samsung, Galaxy A23 5G ,3751-3753MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,31;33,3.2,0,0.00%,0.00%
+Redmi,opal,Redmi,Redmi Note 11S 5G,3773-5916MB,Phone,Mediatek MT6833V/PNZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;33,3.2,0,0.00%,0.00%
+vivo,2124,Vivo,V2124,8002MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2408,440,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+ZTE,Z6571S,ZTE,A103ZT,3831-3847MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2,0,0.00%,0.00%
+motorola,saipan,Motorola,moto g(50) 5G,3841-3871MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),720x1600,280,arm64-v8a;armeabi;armeabi-v7a,30;31,3.2,0,0.00%,0.00%
+samsung,a14xm,Samsung,Galaxy A14 5G,3764-5872MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),1080x2408,450,arm64-v8a;armeabi;armeabi-v7a,33;34,3.2,0,0.00%,0.00%
+Redmi,camellian,Redmi,Redmi Note 10 5G,3781-8048MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+TECNO-Mobile,TECNO-Mobile-LH8n,Tecno Mobile,POVA 5 Pro 5G,8020MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2460,480,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+ZTE,Z6561S,ZTE,Z6561J,3838MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2408,480,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+samsung,SCG18,Samsung,Galaxy A23 5G,3751-3753MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,31;33,3.2,0,0.00%,0.00%
+Redmi,iron,Redmi,Redmi Note 13 5G,7939MB,Phone,Mediatek MT6833P,2x ARM Mali G57 (950 MHz),1080x2400,440,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+samsung,SC-56B,Samsung,Galaxy A22 5G,3777-3782MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1560,300,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+TECNO,TECNO-LI9,Tecno,TECNO POVA 6 Pro 5G ,7990MB,Phone,Mediatek MT6833V/PNZA,2x ARM Mali G57 (950 MHz),1080x2436,480,arm64-v8a;armeabi;armeabi-v7a,34,3.2,0,0.00%,0.00%
+ZTE,Z6575S,ZTE,A202ZT,3832MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,31,3.2,0,0.00%,0.00%
+vivo,V2248,Vivo,Y36 5G,8004MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2388,440,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
+realme,RE513CL1,realme,realme narzo 30 5G,3790-8053MB,Phone,Mediatek MT6833V/ZA,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,30;31;33,3.2,0,0.00%,0.00%
+samsung,a13x,Samsung,Galaxy A13 5G,3792-5902MB,Phone,Mediatek MT6833V/NZA,2x ARM Mali G57 (950 MHz),720x1600,300,armeabi;armeabi-v7a,30;31;33;34,3.2,0,0.00%,0.00%
+ZTE,Z6576S,ZTE,A303ZT,3838MB,Phone,Mediatek MT6833,2x ARM Mali G57 (950 MHz),1080x2400,480,arm64-v8a;armeabi;armeabi-v7a,33,3.2,0,0.00%,0.00%
