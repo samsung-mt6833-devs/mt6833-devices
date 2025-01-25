@@ -15,3 +15,8 @@ Please note that several A14 5G variants are equipped with the Exynos chipset an
 | SM-A146W   | A146WVLS8DXI1     | Canada Only                 |
 | SM-E146B   | E146BXXU7CYA1     | India only                  |
 | SM-M146B   | M146BXXU8CYA1     | Intl                        |
+
+--------
+
+### MT6833-Dumps - https://gitlab.com/ramenrolls/mt6833-dumps
+WIP: Uploading all MT6833 Device Firmware Dumps For Other Projects / Dev
