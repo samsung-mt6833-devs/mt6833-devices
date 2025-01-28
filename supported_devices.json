@@ -38,6 +38,7 @@
         {
           "model": "SM-A226B", "build": "A226BXXSADXH1", "region": "Global (EU, Asia, Africa, Oceania)"
           "model": "SM-A226BR", "build": "A226BRUBSBDXH1", "region": "Latin America"
+          "model": "SC-56B", "build": "A226BRUBSBDXH1", "region": "Japan only", "device_code": "a22ex", "product_name": "a22exdcm", 
         },
         {
           "name": "Galaxy Buddy",
